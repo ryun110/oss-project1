@@ -4,5 +4,6 @@ int main()
 {
   printf("Open Source SW Project\n");
   printf("First GitHub Tranning\n");
+  printf("Second  GitHub Tranning\n");
   return 0;
 }
